@@ -1,5 +1,6 @@
 *.err
 *.log
 *.out
+.bash*
 *class
 classes/
